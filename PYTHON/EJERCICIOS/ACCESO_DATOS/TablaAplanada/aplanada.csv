@@ -1,0 +1,68 @@
+cl.id_cliente,cl.nombre_cliente,cl.apellido_cliente,cl.fechanac_cliente,cl.dni_cliente,cl.telefono_cliente,cl.correo_cliente,cl.calle_cliente,ct.id_cuenta,ct.iban_cuenta,mv.id_movimiento,mv.tipo_movimiento,mv.cantidad_movimiento,mv.fecha_movimiento
+9,Eladio,Planas,1998-12-23,16153436F,646559819,aguilaclaudio@jodar-girona.net,C. de Manuelita Mora,439,ES7648598655373656828349,261,Retiro,475,2008-05-28
+18,Leoncio,Pareja,2018-01-12,13404016F,807860080,eliseorius@gmail.com,Camino Jennifer Vilar,345,ES8304773049854995222613,182,Ingreso,149,1994-05-05
+27,Horacio,Méndez,2016-04-22,27043234H,902383065,rodrigovila@rosello-pazos.net,Plaza Nayara Botella,270,ES1816997146154969820883,397,Ingreso,467,2020-09-14
+27,Horacio,Méndez,2016-04-22,27043234H,902383065,rodrigovila@rosello-pazos.net,Plaza Nayara Botella,270,ES1816997146154969820883,440,Retiro,1435,1997-05-12
+33,Gil,Cueto,2014-02-05,06129713Y,674118810,genoveva96@hotmail.com,Vial Clementina Carrasco,432,ES5034095586420895352427,241,Ingreso,2442,1997-11-30
+40,Diana,Jáuregui,2000-05-19,33795273Q,975033712,alcides94@cuenca.es,C. Néstor Fábregas,720,ES7327082981541231265902,361,Ingreso,634,2006-07-08
+40,Diana,Jáuregui,2000-05-19,33795273Q,975033712,alcides94@cuenca.es,C. Néstor Fábregas,676,ES1344810846918418864605,413,Retiro,1392,2005-03-03
+42,Joan,Sierra,2015-11-11,97366263H,685296435,abilio10@yahoo.com,Alameda Evelia Tejera,318,ES7408647046704635224920,552,Ingreso,2126,1995-11-30
+43,Edmundo,Lamas,1997-04-28,69161519J,996762083,sdonoso@yahoo.com,Cuesta de Carmela Bravo,218,ES0576431396963634982655,901,Retiro,1167,2022-10-11
+46,Adela,Ripoll,2011-04-03,01831620S,650795789,jordanalejandro@yahoo.com,Glorieta Jacinta Lillo,392,ES3673978221628461991484,888,Ingreso,7,2019-03-22
+49,Wálter,Álvaro,2022-11-03,99569694A,778085122,salgadoalma@yahoo.com,Calle Casandra Ródenas,327,ES6624688347590515290685,852,Ingreso,99,2002-12-02
+52,Melisa,Cobo,2003-04-29,64858177V,875382986,ezequielcarbo@gmail.com,Glorieta de Tomasa Royo,767,ES4280980576081159331626,505,Ingreso,595,2013-06-13
+52,Melisa,Cobo,2003-04-29,64858177V,875382986,ezequielcarbo@gmail.com,Glorieta de Tomasa Royo,247,ES8397264792828470827026,301,Retiro,1107,2009-06-29
+52,Melisa,Cobo,2003-04-29,64858177V,875382986,ezequielcarbo@gmail.com,Glorieta de Tomasa Royo,767,ES4280980576081159331626,870,Ingreso,210,2000-03-31
+53,Emelina,Santamaría,2018-03-22,49199044C,617539191,carreraschelo@gmail.com,Alameda Leyre Peñas,180,ES4051300064650656839186,239,Retiro,955,2010-06-24
+53,Emelina,Santamaría,2018-03-22,49199044C,617539191,carreraschelo@gmail.com,Alameda Leyre Peñas,745,ES7218540355295250414369,151,Retiro,1616,2013-11-27
+53,Emelina,Santamaría,2018-03-22,49199044C,617539191,carreraschelo@gmail.com,Alameda Leyre Peñas,745,ES7218540355295250414369,779,Retiro,1424,2020-09-06
+53,Emelina,Santamaría,2018-03-22,49199044C,617539191,carreraschelo@gmail.com,Alameda Leyre Peñas,180,ES4051300064650656839186,866,Retiro,2860,2009-11-19
+53,Emelina,Santamaría,2018-03-22,49199044C,617539191,carreraschelo@gmail.com,Alameda Leyre Peñas,745,ES7218540355295250414369,853,Ingreso,843,2017-01-26
+53,Emelina,Santamaría,2018-03-22,49199044C,617539191,carreraschelo@gmail.com,Alameda Leyre Peñas,745,ES7218540355295250414369,921,Ingreso,261,1998-02-24
+53,Emelina,Santamaría,2018-03-22,49199044C,617539191,carreraschelo@gmail.com,Alameda Leyre Peñas,180,ES4051300064650656839186,587,Ingreso,2665,2002-02-24
+53,Emelina,Santamaría,2018-03-22,49199044C,617539191,carreraschelo@gmail.com,Alameda Leyre Peñas,180,ES4051300064650656839186,84,Ingreso,1630,2019-05-20
+54,Josué,Dominguez,1995-02-27,92491894Q,918233776,roquegarrido@yahoo.com,Cañada de Obdulia Carranza,701,ES7280068111683449717927,909,Retiro,1516,2009-07-13
+54,Josué,Dominguez,1995-02-27,92491894Q,918233776,roquegarrido@yahoo.com,Cañada de Obdulia Carranza,582,ES3887337881943151642849,210,Retiro,140,2015-05-17
+54,Josué,Dominguez,1995-02-27,92491894Q,918233776,roquegarrido@yahoo.com,Cañada de Obdulia Carranza,582,ES3887337881943151642849,163,Ingreso,1718,1995-09-01
+54,Josué,Dominguez,1995-02-27,92491894Q,918233776,roquegarrido@yahoo.com,Cañada de Obdulia Carranza,554,ES5448799683221555772360,356,Retiro,1882,1994-08-23
+54,Josué,Dominguez,1995-02-27,92491894Q,918233776,roquegarrido@yahoo.com,Cañada de Obdulia Carranza,554,ES5448799683221555772360,65,Ingreso,2562,2007-12-15
+54,Josué,Dominguez,1995-02-27,92491894Q,918233776,roquegarrido@yahoo.com,Cañada de Obdulia Carranza,701,ES7280068111683449717927,491,Ingreso,573,2021-07-14
+54,Josué,Dominguez,1995-02-27,92491894Q,918233776,roquegarrido@yahoo.com,Cañada de Obdulia Carranza,554,ES5448799683221555772360,494,Ingreso,2333,2004-02-18
+59,Reyes,Cisneros,2019-02-24,15230447P,706214838,figuerolacoral@yahoo.com,Cañada de Mamen Bueno,174,ES6218472858359305860315,612,Ingreso,2809,2020-08-14
+62,Lina,Almansa,2003-08-04,41456176X,924575163,leonardo64@hotmail.com,Vial de Marcio Blazquez,791,ES8961775665426160793223,141,Ingreso,553,2017-07-24
+69,Juan Manuel,Ayala,1996-09-07,19077711Q,988295650,noeliacamps@verdugo.com,Cuesta José Mari Gil,700,ES5537909539205612982059,246,Ingreso,1187,2020-07-15
+69,Juan Manuel,Ayala,1996-09-07,19077711Q,988295650,noeliacamps@verdugo.com,Cuesta José Mari Gil,550,ES2724571633761117202506,787,Ingreso,125,2016-04-18
+69,Juan Manuel,Ayala,1996-09-07,19077711Q,988295650,noeliacamps@verdugo.com,Cuesta José Mari Gil,550,ES2724571633761117202506,557,Retiro,2857,2014-06-23
+69,Juan Manuel,Ayala,1996-09-07,19077711Q,988295650,noeliacamps@verdugo.com,Cuesta José Mari Gil,550,ES2724571633761117202506,272,Ingreso,1599,2021-03-12
+69,Juan Manuel,Ayala,1996-09-07,19077711Q,988295650,noeliacamps@verdugo.com,Cuesta José Mari Gil,550,ES2724571633761117202506,125,Ingreso,656,2016-09-11
+74,Rosalinda,Ávila,2022-05-04,99246489V,990689828,kmartin@canas-vives.com,Rambla de Primitiva Paz,474,ES9160248209180825283993,799,Ingreso,2493,2008-05-12
+87,María Luisa,Mulet,2005-06-02,58100932B,731760036,geronimo38@andrade-ricart.es,Camino Carolina Rocha,736,ES6507362273179508317571,883,Retiro,2410,2019-09-05
+87,María Luisa,Mulet,2005-06-02,58100932B,731760036,geronimo38@andrade-ricart.es,Camino Carolina Rocha,736,ES6507362273179508317571,244,Retiro,402,2012-11-17
+89,Chus,Roman,2017-04-27,00680967Y,920072393,amarolanda@jordan.es,Cañada de Calisto Alegre,677,ES8670927724498750865576,543,Retiro,120,2007-09-05
+89,Chus,Roman,2017-04-27,00680967Y,920072393,amarolanda@jordan.es,Cañada de Calisto Alegre,677,ES8670927724498750865576,899,Ingreso,2772,2022-02-17
+89,Chus,Roman,2017-04-27,00680967Y,920072393,amarolanda@jordan.es,Cañada de Calisto Alegre,677,ES8670927724498750865576,655,Retiro,469,2021-06-23
+89,Chus,Roman,2017-04-27,00680967Y,920072393,amarolanda@jordan.es,Cañada de Calisto Alegre,677,ES8670927724498750865576,100,Ingreso,1073,2005-05-30
+97,Artemio,Jaén,2021-11-06,16630629L,698500542,etelvina11@cabanillas.es,Cañada de Raúl Baquero,546,ES5692285515156272004010,902,Retiro,1067,1996-02-05
+97,Artemio,Jaén,2021-11-06,16630629L,698500542,etelvina11@cabanillas.es,Cañada de Raúl Baquero,546,ES5692285515156272004010,338,Retiro,510,2012-10-23
+97,Artemio,Jaén,2021-11-06,16630629L,698500542,etelvina11@cabanillas.es,Cañada de Raúl Baquero,546,ES5692285515156272004010,843,Retiro,1577,2014-12-10
+97,Artemio,Jaén,2021-11-06,16630629L,698500542,etelvina11@cabanillas.es,Cañada de Raúl Baquero,546,ES5692285515156272004010,948,Retiro,414,2016-04-27
+97,Artemio,Jaén,2021-11-06,16630629L,698500542,etelvina11@cabanillas.es,Cañada de Raúl Baquero,546,ES5692285515156272004010,2,Retiro,743,2018-11-15
+99,Fortunata,Río,2020-10-24,64985600C,814748064,armidasolis@alfaro.es,Calle Zacarías Bernad,322,ES9896940785391136589694,280,Ingreso,1977,2013-05-09
+99,Fortunata,Río,2020-10-24,64985600C,814748064,armidasolis@alfaro.es,Calle Zacarías Bernad,322,ES9896940785391136589694,114,Retiro,418,1994-10-18
+101,Elena,Jove,2013-08-09,06017171A,621956653,bpeinado@gmail.com,Via Pelayo Sanchez,748,ES1982830400015893011193,541,Ingreso,62,2021-04-07
+101,Elena,Jove,2013-08-09,06017171A,621956653,bpeinado@gmail.com,Via Pelayo Sanchez,748,ES1982830400015893011193,810,Retiro,1392,2000-07-04
+105,Isidoro,Morales,2002-04-18,02760569V,780318617,dandrade@gmail.com,Glorieta Zacarías Palacio,276,ES9059528838034510930870,478,Retiro,616,2014-09-27
+105,Isidoro,Morales,2002-04-18,02760569V,780318617,dandrade@gmail.com,Glorieta Zacarías Palacio,276,ES9059528838034510930870,489,Retiro,181,2004-06-25
+105,Isidoro,Morales,2002-04-18,02760569V,780318617,dandrade@gmail.com,Glorieta Zacarías Palacio,276,ES9059528838034510930870,534,Ingreso,299,2017-11-07
+105,Isidoro,Morales,2002-04-18,02760569V,780318617,dandrade@gmail.com,Glorieta Zacarías Palacio,276,ES9059528838034510930870,835,Retiro,550,1996-03-18
+115,Emilio,Casanova,2022-05-10,29734940B,958598848,vluz@hotmail.com,Alameda de Efraín Alemán,273,ES6853249387919094289708,695,Retiro,2909,1996-11-16
+118,Coral,Peláez,2012-09-15,41612833Z,871302764,fmartinez@hotmail.com,Glorieta de Lola Pavón,152,ES6169870943760084354838,44,Retiro,2715,2010-06-03
+118,Coral,Peláez,2012-09-15,41612833Z,871302764,fmartinez@hotmail.com,Glorieta de Lola Pavón,152,ES6169870943760084354838,912,Retiro,721,2002-03-29
+119,María Manuela,Pellicer,1995-03-14,18019581R,775564013,storrijos@noriega.es,Glorieta de Patricia Gomila,781,ES7126331386243497348729,448,Retiro,547,2021-12-24
+120,Aníbal,Palau,2006-09-15,66943123J,610480428,norbertovazquez@gmail.com,Paseo Nereida Abad,132,ES2063992653857763750210,209,Ingreso,771,2005-10-09
+120,Aníbal,Palau,2006-09-15,66943123J,610480428,norbertovazquez@gmail.com,Paseo Nereida Abad,132,ES2063992653857763750210,783,Retiro,1639,2008-05-26
+123,Paula,Valbuena,1995-03-23,28003341J,821370787,cruz45@parejo.es,Pasadizo Adelardo Leiva,386,ES3064304310398938482527,987,Ingreso,2168,2000-06-27
+123,Paula,Valbuena,1995-03-23,28003341J,821370787,cruz45@parejo.es,Pasadizo Adelardo Leiva,386,ES3064304310398938482527,538,Ingreso,282,2012-05-21
+123,Paula,Valbuena,1995-03-23,28003341J,821370787,cruz45@parejo.es,Pasadizo Adelardo Leiva,386,ES3064304310398938482527,11,Retiro,2173,2008-02-11
+124,Hilda,Dueñas,1999-09-02,71746668P,971267595,tapiamar@rincon-palomino.es,Alameda Isa Velasco,334,ES8531397248033098033770,805,Ingreso,293,2021-10-06
+124,Hilda,Dueñas,1999-09-02,71746668P,971267595,tapiamar@rincon-palomino.es,Alameda Isa Velasco,334,ES8531397248033098033770,678,Retiro,610,2010-07-11
